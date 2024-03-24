@@ -4,61 +4,59 @@ title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Notre Dame, 2026 (expected)
 
-Work experience
+Related Coursework and Projects
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Courses: Data Structures, Systems Programming, Discrete Mathematics, Computer Architecture, Machine Learning
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Spring 2024 - Present: Probabilistic Exact Recursive Programming Language (PERPL)
+  * University of Notre Dame
+  * Contributing to the development of a pioneering PERPL compiler with a professor, implementing a linear-type system to eliminate recursive data types and the automated derivation of polynomial-time parsing algorithms
+  * Supervisor: Professor David Chiang
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: HydroDigital Smart Water Project
+  * University of Notre Dame
+  * Investigated a solution to detect leaks in pipes of the city of South Bend by using piezo sensors and machine learning using Python with TensorFlow, Numpy, and Keras, helping improve infrastructure and conserve water
+  * Supervisor: Professor Jay Brockman
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++/C# (Vim, Unity)
+* Python (Visual Studio Code, Google Colab, Ubuntu, PyCharm)
+* Git (GitHub)
+* Unix Bourne shell scripting (Linux)
+* Assembly RISC-V
+* HTML
+* Java
+* CAD (SolidWorks)
+* Processing
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Leadership and Activities
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Fall 2023 - Present: QuCS (Quantum Computer Systems Lecture Series)
+  * University of Notre Dame
+  * Managed website content using Google Sites, ensuring regular updates, and creating engaging descriptions for lecture videos in collaboration with graduate students from Notre Dame and MIT
+
+* Spring 2023 - Present: Video Game Development Club
+  * University of Notre Dame
+  * Established a space for enthusiastic gamers and aspiring developers to collaborate, learn, and create innovative gaming projects on Unity, while nurturing an inclusive community from various majors and years
+  * Current projects: Dungeons & Domers, Retro Bowl, platformer, 3D RPG, tycoon, and club website (Google Sites)
+
+* Fall 2022 - Present: Marching Band
+  * University of Notre Dame
+  * Dedicated significant time and effort to actively participate in the band playing piccolo, demonstrating commitment, teamwork, and musical proficiency through performances, reached out to newly admitted students, alumni, and community as band ambassador
+
+Work Experience
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Fall 2023 - Present: Identity and Access Management Student Worker
+  * University of Notre Dame, Office of Information Technologies
+  * Collaborated with a team of IAM professionals to enhance campus cybersecurity and optimize the school's identity  platform through troubleshooting and improvement initiatives on Okta using Okta Workflows and Postman API
